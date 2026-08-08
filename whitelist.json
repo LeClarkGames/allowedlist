@@ -1,7 +1,27 @@
-[
-  "Enno_Balenci",
-  "Leonar_Gray",
-  "Marley_France",
-  "Angel_France",
-  "Konstantin_Great"
-]
+{
+  "Enno_Balenci": {
+    "house": [0, 0],
+    "biz": [0, 0],
+    "trailer": [0, 0]
+  },
+  "Leonar_Gray": {
+    "house": [310, 619],
+    "biz": [136, 203],
+    "trailer": [126, 251]
+  },
+  "Marley_France": {
+    "house": [930, 1239],
+    "biz": [272, 339],
+    "trailer": [378, 503]
+  },
+  "Angel_France": {
+    "house": [1240, 1549],
+    "biz": [340, 407],
+    "trailer": [504, 629]
+  },
+  "Konstantin_Great": {
+    "house": [1550, 1861],
+    "biz": [408, 468],
+    "trailer": [630, 750]
+  }
+}
