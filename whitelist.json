@@ -4,6 +4,11 @@
     "biz": [0, 0],
     "trailer": [0, 0]
   },
+    "Vladislav_Vlassparo": {
+    "house": [0, 309],
+    "biz": [68, 135],
+    "trailer": [0, 125]
+  },
   "Leonar_Gray": {
     "house": [310, 619],
     "biz": [136, 203],
@@ -23,10 +28,5 @@
     "house": [1240, 1549],
     "biz": [340, 407],
     "trailer": [504, 629]
-  },
-  "Konstantin_Great": {
-    "house": [1550, 1861],
-    "biz": [408, 468],
-    "trailer": [630, 750]
   }
 }
